@@ -1,0 +1,14 @@
+index.int32(),text.string(),audioUrl.string(),showTime.double(),canTouchClose.boolean()
+0,Aaa,,3.0 ,FALSE
+1,bbb,,3.0 ,FALSE
+2,ccc,,3.0 ,FALSE
+3,Aaa,,3.0 ,FALSE
+4,bbb,,3.0 ,FALSE
+5,ccc,,3.0 ,FALSE
+6,Aaa,,3.0 ,FALSE
+7,bbb,,3.0 ,FALSE
+8,ccc,,3.0 ,FALSE
+9,Aaa,,3.0 ,FALSE
+10,bbb,,4.0 ,FALSE
+11,ccc,,5.0 ,TRUE
+12,ddd,,5.0 ,TRUE
